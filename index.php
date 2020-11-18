@@ -1,3 +1,3 @@
 <?php
-echo "it's version3 from codecommit and codebuild"
+echo "it's version4 from codecommit and codebuild and codedeploy"
 ?>
